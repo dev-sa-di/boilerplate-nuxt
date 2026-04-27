@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - "@parcel/watcher"
+  - esbuild
+
+useNodeVersion: 24.13.1
+engineStrict: true

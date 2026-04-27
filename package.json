@@ -11,6 +11,8 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
     "nuxt": "^4.4.2",
     "vue": "^3.5.33",
     "vue-router": "^5.0.6"
